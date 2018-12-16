@@ -10,7 +10,6 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#contribution">Contribution</a> •
-  <a href="#contributors">Contributors</a> •
   <a href="#communication">Communication</a> •
   <a href="#license">License</a> •
   <a href="#credits">Credits</a> •
@@ -78,9 +77,9 @@ We are more than excited to be a part of [Kharagpur Winter of Code](https://kwoc
   Now install all requisites in requirements.txt .
 
   ```bash
-  pip install x
+  cd pro1
+  pip install -r requirements.txt
   ```
-  where x is everything inside requirements.txt
 
   Here is what your Pipfile will appear when you're ready to go
 
@@ -96,8 +95,6 @@ We are more than excited to be a part of [Kharagpur Winter of Code](https://kwoc
 
 * Configure environment variable using **python-decople**
 
-  Create a file named .env in project's root directory (i.e. inside pro1, where .env.example reside)
-  and copy the content from .env.example file and paste it in .env file.
 
 * Navigate to pro1 and run the following command in your terminal.
 
@@ -111,17 +108,6 @@ We are more than excited to be a part of [Kharagpur Winter of Code](https://kwoc
 ## Contribution
 
 Head to [contribution guidelines](https://github.com/monsij/StudentPortal/wiki/Contribution-Guidelines) to know more about how you can help us to improve.
-
-## Contributors
-
-# ✨ Recognising all people who not only pushed code ✨
-| [<img src="https://avatars2.githubusercontent.com/u/23289387?s=400&v=4" width="100px;"/><br /><sub><b>Monsij Biswal</b></sub>](https://github.com/monsij)<br />[👀](# "Reviewed Pull Requests") [📢](# "Talks") [💻](# "Code")| [<img src="https://avatars0.githubusercontent.com/u/25405293?s=400&v=4" width="100px;"/><br /><sub><b>Satyajit Das</b></sub>](https://github.com/r3trd)<br />[👀](# "Reviewed Pull Requests") [📢](# "Talks") [💻](# "Code")| [<img src="https://avatars3.githubusercontent.com/u/20069594?s=400&v=4" width="100px;"/><br /><sub><b>Vivek Modi</b></sub>](https://github.com/modihere)<br />[💡](# "Ideas")| [<img src="https://avatars2.githubusercontent.com/u/37576387?s=400&v=4" width="100px;"/><br /><sub><b>Hariom Verma</b></sub>](https://github.com/harry-hov)<br />[👀](# "Reviewed Pull Requests") [💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/22504975?s=400&v=4" width="100px;"/><br /><sub><b>Nikhil Gupta</b></sub>](https://github.com/nguptaa)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars0.githubusercontent.com/u/35505246?s=400&v=4" width="100px;"/><br /><sub><b>Tiyas Dey</b></sub>](https://github.com/Tiyas-13)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/30266744?s=400&v=4" width="100px;"/><br /><sub><b>Gopa Vasanth</b></sub>](https://github.com/gopavasanth)<br />[💻](# "Code")) [📢](# "Talks")
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars1.githubusercontent.com/u/31796326?s=400&v=4" width="100px;"/><br /><sub><b>Prashant Sharma</b></sub>](https://github.com/gutsytechster)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/32306847?s=400&v=4" width="100px;"/><br /><sub><b>Yashvi Patel</b></sub>](https://github.com/YashviP)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/45662739?s=400&v=4" width="100px;"/><br /><sub><b>Aman Singh Kushwah</b></sub>](https://github.com/Aman8817)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars1.githubusercontent.com/u/32234113?s=400&v=4" width="100px;"/><br /><sub><b>Bhanu Prakash Poluparthi</b></sub>](https://github.com/BhanuPrakashNani)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars0.githubusercontent.com/u/33262874?s=400&v=4" width="100px;"/><br /><sub><b>Arpit Agrawal</b></sub>](https://github.com/arpit3018)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/30580217?s=400&v=4" width="100px;"/><br /><sub><b>Akash Giri</b></sub>](https://github.com/akashgiricse)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars0.githubusercontent.com/u/36023503?s=400&v=4" width="100px;"/><br /><sub><b>Rahul Otwani</b></sub>](https://github.com/rahulotwani)<br />[💻](# "Code") [📢](# "Talks")
-| [<img src="https://avatars3.githubusercontent.com/u/34571079?s=400&v=4" width="100px;"/><br /><sub><b>Nishi Chauhan</b></sub>](https://github.com/chauhannishh)<br />[📢](# "Talks")| [<img src="https://avatars3.githubusercontent.com/u/42097982?s=400&v=44" width="100px;"/><br /><sub><b>Uday Mewada</b></sub>](https://github.com/udaymewada)<br />[📢](# "Talks")
-
-
-
 
 ## Communication
 
@@ -139,3 +125,4 @@ Exactly putting we want it to be simple are permissive. Interested contributors 
 For more info head to [Wiki](https://github.com/monsij/StudentPortal/wiki) for more information
 
 Cheers :fun:
+
