@@ -14,13 +14,13 @@
   <a href="#communication">Communication</a> •
   <a href="#license">License</a> •
   <a href="#credits">Credits</a> •
-  <a href="#KWoC">KWoC</a> •
+  <a href="#past-programs">Past Programs</a> •
 </p>
 
 [![Build Status](https://travis-ci.com/monsij/StudentPortal.svg?branch=master)](https://travis-ci.com/monsij/StudentPortal)
 [![CodeFactor](https://www.codefactor.io/repository/github/monsij/studentportal/badge)](https://www.codefactor.io/repository/github/monsij/studentportal)
 [![codecov](https://codecov.io/gh/monsij/StudentPortal/branch/master/graph/badge.svg)](https://codecov.io/gh/monsij/StudentPortal)
-[![Report](https://img.shields.io/badge/status-pre--release-green.svg)]()
+[![Report](https://img.shields.io/badge/status-pre--release-green.svg)]
 [![License](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/monsij/StudentPortal/)
 [![django1.10](https://img.shields.io/badge/django-2.0-brightgreen.svg)](https://www.djangoproject.com)
 [![Maintainability](https://api.codeclimate.com/v1/badges/dc8e2c31895c72594f4c/maintainability)](https://codeclimate.com/github/monsij/StudentPortal/maintainability)
@@ -29,8 +29,6 @@
 [![Gitter](https://img.shields.io/gitter/room/NIT-DGPortal/Lobby.svg?style=flat-square)](https://gitter.im/NIT-DGPortal-main/Lobby)
 [![HitCount](http://hits.dwyl.com/monsij/StudentPortal.svg)](http://hits.dwyl.com/monsij/StudentPortal)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/monsij)
-## KWoC
-We are more than excited to be a part of [Kharagpur Winter of Code](https://kwoc.kossiitkgp.org/). If you're contributing as a part of this program, we will be having a special mention of such contributors in the repo. Once again, Happy Coding
 ## Key Features
 <ul>
   <li> Based on Python</li>
@@ -97,8 +95,9 @@ We are more than excited to be a part of [Kharagpur Winter of Code](https://kwoc
 
 * Configure environment variable using **python-decople**
 
-  
-* Navigate to pro1 and run the following command in your terminal.
+* Navigate to pro1 and rename .env.example to .env
+
+* Run the following command in your terminal.
 
   ```bash
   > python manage.py runserver
@@ -114,10 +113,10 @@ Head to [contribution guidelines](https://github.com/monsij/StudentPortal/wiki/C
 ## Contributors
 
 # ✨ Recognising all people who not only pushed code ✨
-| [<img src="https://avatars2.githubusercontent.com/u/23289387?s=400&v=4" width="100px;"/><br /><sub><b>Monsij Biswal</b></sub>](https://github.com/monsij)<br />[👀](# "Reviewed Pull Requests") [📢](# "Talks") [💻](# "Code")| [<img src="https://avatars0.githubusercontent.com/u/25405293?s=400&v=4" width="100px;"/><br /><sub><b>Satyajit Das</b></sub>](https://github.com/r3trd)<br />[👀](# "Reviewed Pull Requests") [📢](# "Talks") [💻](# "Code")| [<img src="https://avatars3.githubusercontent.com/u/20069594?s=400&v=4" width="100px;"/><br /><sub><b>Vivek Modi</b></sub>](https://github.com/modihere)<br />[💡](# "Ideas")| [<img src="https://avatars2.githubusercontent.com/u/37576387?s=400&v=4" width="100px;"/><br /><sub><b>Hariom Verma</b></sub>](https://github.com/harry-hov)<br />[👀](# "Reviewed Pull Requests") [💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/22504975?s=400&v=4" width="100px;"/><br /><sub><b>Nikhil Gupta</b></sub>](https://github.com/nguptaa)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars0.githubusercontent.com/u/35505246?s=400&v=4" width="100px;"/><br /><sub><b>Tiyas Dey</b></sub>](https://github.com/Tiyas-13)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/30266744?s=400&v=4" width="100px;"/><br /><sub><b>Gopa Vasanth</b></sub>](https://github.com/gopavasanth)<br />[💻](# "Code")) [📢](# "Talks")
+| [<img src="https://avatars2.githubusercontent.com/u/23289387?s=400&v=4" width="100px;"/><br /><sub><b>Monsij Biswal</b></sub>](https://github.com/monsij)<br />[👀](# "Reviewed Pull Requests") [📢](# "Talks") [💻](# "Code")| [<img src="https://avatars0.githubusercontent.com/u/25405293?s=400&v=4" width="100px;"/><br /><sub><b>Satyajit Das</b></sub>](https://github.com/r3trd)<br />[👀](# "Reviewed Pull Requests") [📢](# "Talks") [💻](# "Code")| [<img src="https://avatars3.githubusercontent.com/u/20069594?s=400&v=4" width="100px;"/><br /><sub><b>Vivek Modi</b></sub>](https://github.com/modihere)<br />[💡](# "Ideas")| [<img src="https://avatars2.githubusercontent.com/u/37576387?s=400&v=4" width="100px;"/><br /><sub><b>Hariom Verma</b></sub>](https://github.com/harry-hov)<br />[👀](# "Reviewed Pull Requests") [💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/22504975?s=400&v=4" width="100px;"/><br /><sub><b>Nikhil Gupta</b></sub>](https://github.com/nguptaa)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars0.githubusercontent.com/u/35505246?s=400&v=4" width="100px;"/><br /><sub><b>Tiyas Dey</b></sub>](https://github.com/Tiyas-13)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/30266744?s=400&v=4" width="100px;"/><br /><sub><b>Gopa Vasanth</b></sub>](https://github.com/gopavasanth)<br />[💻](# "Code") [📢](# "Talks")
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [<img src="https://avatars1.githubusercontent.com/u/31796326?s=400&v=4" width="100px;"/><br /><sub><b>Prashant Sharma</b></sub>](https://github.com/gutsytechster)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/32306847?s=400&v=4" width="100px;"/><br /><sub><b>Yashvi Patel</b></sub>](https://github.com/YashviP)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/45662739?s=400&v=4" width="100px;"/><br /><sub><b>Aman Singh Kushwah</b></sub>](https://github.com/Aman8817)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars1.githubusercontent.com/u/32234113?s=400&v=4" width="100px;"/><br /><sub><b>Bhanu Prakash Poluparthi</b></sub>](https://github.com/BhanuPrakashNani)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars0.githubusercontent.com/u/33262874?s=400&v=4" width="100px;"/><br /><sub><b>Arpit Agrawal</b></sub>](https://github.com/arpit3018)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars2.githubusercontent.com/u/30580217?s=400&v=4" width="100px;"/><br /><sub><b>Akash Giri</b></sub>](https://github.com/akashgiricse)<br />[💻](# "Code") [📢](# "Talks")| [<img src="https://avatars0.githubusercontent.com/u/36023503?s=400&v=4" width="100px;"/><br /><sub><b>Rahul Otwani</b></sub>](https://github.com/rahulotwani)<br />[💻](# "Code") [📢](# "Talks")
-| [<img src="https://avatars3.githubusercontent.com/u/34571079?s=400&v=4" width="100px;"/><br /><sub><b>Nishi Chauhan</b></sub>](https://github.com/chauhannishh)<br />[📢](# "Talks")| [<img src="https://avatars3.githubusercontent.com/u/42097982?s=400&v=44" width="100px;"/><br /><sub><b>Uday Mewada</b></sub>](https://github.com/udaymewada)<br />[📢](# "Talks")
+| [<img src="https://avatars3.githubusercontent.com/u/34571079?s=400&v=4" width="100px;"/><br /><sub><b>Nishi Chauhan</b></sub>](https://github.com/chauhannishh)<br />[💻](# "Code")[📢](# "Talks")| [<img src="https://avatars3.githubusercontent.com/u/42097982?s=400&v=44" width="100px;"/><br /><sub><b>Uday Mewada</b></sub>](https://github.com/udaymewada)<br />[💻](# "Code")[📢](# "Talks")
 
 
 
@@ -125,6 +124,9 @@ Head to [contribution guidelines](https://github.com/monsij/StudentPortal/wiki/C
 ## Communication
 
 All related communications take place [here](https://gitter.im/NIT-DGPortal-main/Lobby)
+## Past Programs
+![KWoC](https://i.ibb.co/CwBBGYv/kwoc1.png)
+We have been a part of [Kharagpur Winter of Code](https://kwoc.kossiitkgp.org/). 
 ## License
 
 Exactly putting we want it to be simple are permissive. Interested contributors are heartedly welcomed. :blush: 
